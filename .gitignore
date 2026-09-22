@@ -2,3 +2,6 @@ rsvp-data.json
 node_modules/
 Thumbs.db
 .DS_Store
+
+.vercel
+.env*
