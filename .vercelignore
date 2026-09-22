@@ -1,0 +1,7 @@
+server.mjs
+rsvp-data.json
+app.js
+*.mjs
+!api/**
+.idea
+.claude
